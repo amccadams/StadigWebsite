@@ -1,0 +1,198 @@
+#container{
+  width: 1018px;
+  margin: 0 auto;
+  padding-top: 40px;
+  padding-bottom: 34px;
+}
+
+body {
+	font: 100%/1.4;
+	background: #42413C;
+	color: #333333; 
+	background-color: #e7e7e7;
+	margin-bottom: 0px;
+	vertical-align: bottom;
+}
+
+nav li { 
+	display:inline-block;
+	margin-right: 20px;
+}
+
+h1, h3, h4, h5, h6, p {
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+	font-family: Helvetica;
+}
+
+
+h1{
+	font-family: Veneer;
+	font-size: 55px;
+}
+
+#nameHeader{
+	margin-left: 110px ;
+	float:left;
+	height:55px;
+}
+
+#decorationBlock{
+	background-color: #dddddd;
+	margin-left: 440px;
+	margin-right: 30px;
+	border-style:solid;
+  border-width: 30px;
+  border-color:#dddddd;
+}
+
+#decorationBlockContentDivider{
+	background-color: #dddddd;
+	margin: 0, auto;
+	width: 875px;
+	height: 5px;
+	border-style:solid;
+  border-color:#dddddd;
+  margin-top:35px;
+}
+
+nav{
+	-moz-border-top-right-radius: 15px;
+  border-top-right-radius: 15px;
+  -moz-border-top-left-radius: 15px;
+  border-top-left-radius: 15px;
+  width: 1018px;
+  margin: 0 auto ;
+  font-family: Arial, Veranda, serif;
+  font-size: 18px;
+  list-style: none;
+	margin-left: 90px ;
+}
+
+img{
+	padding:5px;
+}
+
+a:link {
+	color: #333333;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #333333;
+	text-decoration: none;
+}
+
+a:hover, a.active, a:focus { 
+	text-decoration: none;
+  color: #b34036;
+}
+
+#featuresContainer{
+  background-repeat: no-repeat;
+  width: 950px;
+  margin: 0 auto;
+  margin-left: 120px ;
+  margin-right: 120px;
+  margin-top: 34px;
+  padding-bottom: 60px;
+}
+
+#featuresContainer_about{
+  background-repeat: no-repeat;
+  width: 750px;
+  margin: 0 auto;
+  margin-left: 125px ;
+  margin-right: 120px;
+  margin-top: 34px;
+  padding-bottom: 60px;
+}
+
+#featuresContainer_about p{
+	font-size: 25px;
+	padding-left: 0;
+}
+
+#featuresContainer_collaborations p {
+  background-repeat: no-repeat;
+  width: 850px;
+  margin: 0 auto;
+  margin-right: 100px;
+  margin-top: 34px;
+  padding-bottom: 60px;
+  padding-right: 0px;
+}
+
+#brittPortrait, #collaborations{
+	float:left;
+	padding-right: 25px;
+}
+
+#about {
+	font-size: 15px;
+	color: #333333;
+}
+#aboutName {
+	padding-left: 515px;
+}
+
+#featuresContainer_collaborations, h2 {
+  font-family: Arial, Veranda, serif;
+  font-size: 15px;
+}
+
+div#innerfooterdiv {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+div#footer1div {
+	width: 400px;
+	margin: 15px 0 0 0;
+	height: 40px;
+	padding: 0 15px 0 100px;
+	float: left;
+	color: #333333;
+	text-align: left;
+}
+
+div#footer2div {
+	width: 400px;
+	margin: 15px 0 0 0;
+	height: 40px;
+	padding: 0 15px 0 25px;
+	float: right;
+	color: #b34036;
+	text-align: center;
+}
+p.mini{
+	color: #333333;
+	font-size: 10px;
+}
+
+p#contact {
+  font-family: Arial, Veranda, serif;
+  font-size: 18px;
+}
+
+p{
+	font-size: 20px;
+}
+
+#websiteLink {
+  color: #b34036;
+}
+
+p.miniContact{
+	color:#33333;
+	font-size: 10px;
+}
+
+.siteDesignColor{
+	color:#333333;
+}
+
+div.clearfloats {
+	clear: both;
+	}
